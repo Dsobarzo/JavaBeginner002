@@ -4,9 +4,9 @@ public class PrimerClase
     public static void main(String[] args)
     {
         //declaracion de Variable
-        int numeroEntero = 18;
+        // de define una variable constante con final
+        final int numeroEntero = 18;
         double numeroDecimal = 18.26;
-        
         double resultado = numeroEntero - numeroDecimal;
         
         String datoString = "Hola Mundo, mi edad es: ";
