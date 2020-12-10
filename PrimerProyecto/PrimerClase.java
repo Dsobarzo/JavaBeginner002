@@ -6,8 +6,11 @@ public class PrimerClase
         //declaracion de Variable
         int numeroEntero = 18;
         double numeroDecimal = 18.26;
+        
+        double resultado = numeroEntero - numeroDecimal;
+        
         String datoString = "Hola Mundo, mi edad es: ";
-        System.out.println(datoString + numeroDecimal);
+        System.out.println(datoString + resultado);
         
     }
     
