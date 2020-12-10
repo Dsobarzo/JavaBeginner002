@@ -5,11 +5,17 @@ public class WhileDoWhile
         int [] arregloEnteros = {100,200,300,400,500};
         String [] arregloTextos = {"uno","dos","tres","cuatro","cinco"};
         int i = 0;
+        int j = 0;
         //Mientras
         while(i <= 4){
             System.out.println(arregloEnteros[i]);
             i++;
         }
+        
+        do{
+            System.out.println(arregloTextos[j]);
+            j++;
+        }while(j <= 4);
     
     }
 }
