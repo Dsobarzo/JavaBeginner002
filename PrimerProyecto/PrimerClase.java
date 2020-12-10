@@ -5,10 +5,10 @@ public class PrimerClase
     {
         //declaracion de Variable
         int numeroEntero = 18;
-        System.out.println("Hola Mundo, mi edad es: " + numeroEntero);
-        //Cambio de valor de la Variable
-        numeroEntero = 26;
-        System.out.println("Hola Mundo, mi edad es: " + numeroEntero);
+        double numeroDecimal = 18.26;
+        String datoString = "Hola Mundo, mi edad es: ";
+        System.out.println(datoString + numeroDecimal);
+        
     }
     
 }
