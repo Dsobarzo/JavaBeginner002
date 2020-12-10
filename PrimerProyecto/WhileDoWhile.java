@@ -11,7 +11,7 @@ public class WhileDoWhile
             System.out.println(arregloEnteros[i]);
             i++;
         }
-        
+        //hacer
         do{
             System.out.println(arregloTextos[j]);
             j++;
