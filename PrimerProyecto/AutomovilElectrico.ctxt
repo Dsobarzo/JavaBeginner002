@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AutomovilElectrico
+comment1.params=
+comment1.target=AutomovilElectrico()
+comment2.params=
+comment2.target=void\ recargar()
+comment3.params=
+comment3.target=void\ mostrarCarga()
+numComments=4
