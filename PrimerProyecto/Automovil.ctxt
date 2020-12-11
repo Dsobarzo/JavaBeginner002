@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Automovil
+comment1.params=
+comment1.target=Automovil()
+comment2.params=m\ p\ np\ c
+comment2.target=Automovil(java.lang.String,\ int,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ mostrarPropiedades()
+comment4.params=
+comment4.target=void\ encender()
+comment5.params=
+comment5.target=void\ acelerar()
+numComments=6
