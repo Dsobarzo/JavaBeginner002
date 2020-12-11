@@ -1,4 +1,4 @@
-public class Automovil
+public class EjClase
 {
     // variables de instancia caracteristicas o propiedadea de una clase automovil
     private int x;
@@ -21,3 +21,4 @@ public class Automovil
         return x + y;
     }
 }
+
