@@ -1,0 +1,9 @@
+Udemy:
+https://www.udemy.com/course/programacion/
+
+GitHub
+https://github.com/Dsobarzo/JavaBeginner002
+
+Extra 
+BlueJ
+https://www.bluej.org/
